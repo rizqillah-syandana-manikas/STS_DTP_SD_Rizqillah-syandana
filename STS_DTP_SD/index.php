@@ -154,7 +154,13 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td colspan="7">Belum ada data ditampilkan. Lengkapi fitur Read menggunakan PHP dan MySQL.</td>
+                        <td>1</td>
+                        <td>Proyektor</td>
+                        <td>Ruang Kelas 1</td>
+                        <td>Ahmad</td>
+                        <td>Tinggi</td>
+                        <td>Belum diperbaiki</td>
+                        <td>2024-06-01</td>
                     </tr>
                 </tbody>
             </table>
