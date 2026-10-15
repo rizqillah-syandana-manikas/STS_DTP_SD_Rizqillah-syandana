@@ -175,4 +175,4 @@
         <p>&copy; 2024 Sistem Pelaporan Kerusakan Fasilitas Sekolah.</p>
     </footer>
 </body>
-</html>
+<?php
