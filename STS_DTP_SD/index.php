@@ -10,6 +10,7 @@
 <body>
     <link rel="stylesheet" href="header.css">
     <link rel ="stylesheet" href="db_laporan_fasilitas.sql">
+    <link rel ="stylesheet" href="koneksi.php>
 </body>
 <body>
     <header>
