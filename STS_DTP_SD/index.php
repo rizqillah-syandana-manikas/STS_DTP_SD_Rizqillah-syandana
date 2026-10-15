@@ -151,6 +151,9 @@
                         <th scope="col">Status</th>
                         <th scope="col">Tanggal</th>
                     </tr>
+                    <form action="" method="post">
+                        <input type="hidden" name="id_laporan" value="<?php echo $row['id_laporan']; ?>">
+                        <button type="submit" name="hapus">Hapus</button>
                 </thead>
                 <tbody>
                     <tr>
